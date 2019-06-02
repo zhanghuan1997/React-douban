@@ -1,0 +1,48 @@
+.all{
+	background: #fff;
+	height: 300rem;
+	padding: 5rem 5rem 10rem;
+}
+.X{
+	font-size: 7rem;
+}
+.itemss{
+	text-align: center;
+}
+.itemss span{
+	font-size: 4rem;
+}
+.font-logo{
+	font-size: 8rem;
+	margin-bottom: 1rem;
+}
+.font-hui{
+	color: #bababa;
+}
+.font-green{
+	color: green;
+}
+.inputs input{
+	display: block;
+	width: 100%;
+	margin:0 auto ;
+	height: 8rem;
+	font-size: 5rem;
+	border: 1px solid #ccc;
+	
+}
+.inputs{
+	margin-top: 5rem;
+}
+.button{
+	width: 100%;
+	height: 10rem;
+	margin: 0 auto;
+	font-size: 4rem;
+	background-color: rgba(66,189,86,.5);
+	color: #fff;
+	text-align: center;
+	line-height: 10rem;
+	border-radius: 1rem;
+	margin-top: 5rem;
+}

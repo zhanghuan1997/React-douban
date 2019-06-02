@@ -1,0 +1,135 @@
+
+.top{
+	font-size: 5rem;
+	margin-top: 2.5rem;
+	margin-left: 2.5rem;
+	color: #44883e;
+	font-weight:bold;
+}
+.bigchecked{
+	margin-top: 5rem;
+	margin-bottom: 3rem;
+}
+.bigchecked input{
+	width: 2.5rem;
+	height: 2.5rem;
+	margin-left: 3rem;
+}
+
+.bigchecked span{
+	font-size: 3.5rem;
+	width: 20rem;
+	color: #ababac;
+	margin-top: 0.5rem;
+	margin-left: 3rem;
+}
+
+.good img{
+	width: 10rem;
+	height: 10rem;
+	float:left;
+	margin-left: 3rem;
+}
+.goodss{
+	float: left;
+	background: #fff;
+	width: 100%;
+	position: relative;
+}
+.c{
+	width: 2.5rem;
+	height: 2.5rem;
+	float: left;
+	margin-top: 4rem;
+	margin-left: 3rem;
+	border: 0.1rem solid #BABABA;
+	font-weight: lighter;
+}
+.c01{
+	width: 2.5rem;
+	height: 2.5rem;
+	float: left;
+	border: 0.1rem solid #BABABA;
+	margin-top: 1rem;
+	margin-left: 3rem;
+}
+.aaa::after{
+	content: "\2714";
+	color: #fff;
+	width: 2.5rem;
+	height: 2.5rem;
+	font-size: 45px;
+	display: inline-block;
+	background: #73AD73;
+}
+.smallgood{
+	float: left;
+	margin-top: 1rem;
+	margin-left: 2rem;
+}
+.font-a{
+	font-size: 2.5rem;
+	color: #3E3A39;
+}
+.font-b{
+	font-size: 2rem;
+	color: #ababac;
+	margin-bottom: 1rem;
+}
+.smallgood b{
+	font-size: 3rem;
+	padding: 0 2rem;
+	color: #ababac;
+    background-color: #f3f2f2;
+}
+.smallgood span{
+	font-size: 3rem;
+	padding: 0 3rem;
+	color: #ababac;
+	border: 0.2rem solid #f3f2f2;
+}
+.span-a{
+	font-size: 2.5rem;
+	float: right;
+	margin-top: 1rem;
+	margin-right: 3rem;
+	color: #ababac;
+}
+.span-b{
+	font-size: 2rem;
+	float: left;
+	color: red;
+	margin-top: 5rem;
+	margin-left: 13rem;
+}
+.tip02{
+	position: absolute;
+	z-index: 888;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.5);
+    display: block;
+}
+.tip02 div{
+	display: inline-block;
+	font-size: 2rem;
+}
+.next{
+	margin: 2rem 10rem;
+}
+.querenshanchu{
+	margin-left: 9rem;
+	padding: 2rem 5rem;
+	background-color: #73ad73;
+	color: #fff;
+}
+.quxiao{
+	background-color: #ababac;
+	padding: 2rem 5rem;
+	color: #fff;
+}
+.goodss{
+	padding: 2rem 0;
+}

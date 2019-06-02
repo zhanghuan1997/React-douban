@@ -1,0 +1,25 @@
+.user-bar{
+	height: 8rem;
+	background: aquamarine;
+	font-size: 2.5rem;
+	background-color: #fff;
+}
+.user-bar-cart{
+	width: 49.5%;
+	height: 8rem;
+	display: inline-block;
+	text-align: center;
+	line-height: 8rem
+}
+.user-bar-people{
+	width: 49.5%;
+	height: 8rem;
+	display: inline-block;
+	text-align: center;
+	line-height: 8rem;
+}
+.user-bar-line{
+	width: 0;
+    border: 0.1rem solid #f3f2f2;
+    margin-top: 35rem;
+}

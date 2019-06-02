@@ -1,0 +1,152 @@
+
+.describe{
+	text-align: center;
+}
+.font05{
+	font-size:4rem;
+	margin-top: 3rem;
+}
+.font06{
+	font-size:2.5rem;
+	color: red;
+	margin-top: 3rem;
+}
+.font07{
+	font-size: 2rem;
+	margin-top: 6rem;
+}
+.font08{
+	font-size: 3rem;
+	color: #fff;
+	background: #dd1944;
+	height: 8rem;
+	line-height: 8rem;
+	margin-top: 1rem;
+	width: 90%;
+	border-radius: 2rem;
+	margin-left: 5%;
+}
+.tip{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.5);
+	position: fixed;
+	top: 0;
+	z-index: 888;
+}
+.goods{
+	width: 100%;
+	height: 70%;
+	background: #fff;
+	position: fixed;
+	z-index: 999;
+	top: 30%;
+}
+.detail{
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+}
+.mui-modal-close{
+	font-size: 3rem;
+	display: inline-block;
+	margin: 2% 0 0 95% ;
+}
+.detail img{
+	width: 19rem;
+	height: 19rem;
+	float: left;
+}
+.product-hd{
+	margin-top: 2rem;
+	width: 60%;
+	float: left;
+	margin-left: 3rem;
+}
+.spu-title{
+	font-size: 3.5rem;
+}
+.spu-price{
+	font-size: 2.5rem;
+	color: red;
+	margin-top: 3rem;
+}
+.spu-props-tips{
+	font-size: 2.2rem;
+	color: #5c5c5c;
+	margin-top: 3rem;
+}
+.props-items{
+	float: left;
+	width: 100%;
+}
+.color{
+	color: #505050;
+	margin-top: 2rem;
+}
+.bd{
+	margin-top: 4rem;
+}
+.props-items{
+	font-size: 2.5rem;
+}
+.items{
+    background: #f7f7f7;
+    color: #505050;
+    padding: 1rem 2rem;
+    margin: 0 2rem;
+    
+}
+.num{
+	width: 100%;
+	float: left;
+	margin-top: 8rem;
+	font-size: 2.5rem;
+	color: #505050;
+}
+.mui-number-picker{
+	width: 100%;
+	float: left;
+	margin-top: 3rem;
+	margin-left: 3rem;
+}
+.mui-number-picker b{
+	font-size: 4rem;
+	padding: 0 2rem;
+	background-color: #f7f7f7;
+	text-align: center;
+}
+.mui-number-picker span{
+	font-size: 3rem;
+	text-align: center;
+	padding: 0 3rem;
+	border: 0.1rem solid #f7f7f7;
+}
+.usebutton{
+	width: 100%;
+	font-size: 3rem;
+	margin-top: 28%;
+	float: left;
+}
+.fastbuy{
+	float: left;
+	margin-left: 29%;
+    color: #505050;
+    padding: 2rem 3rem;
+    background: #F3F2F2;
+}
+.inshopcar{
+	float: left;
+    color: #505050;
+    padding: 2rem 3rem;
+    background: #F3F2F2;
+}
+.css{
+	border: 1px solid #0aa082;
+    background: #fff;
+    color: #0aa082;
+}
+.back{
+	background: #DD1944;
+	color: #FFFFFF;
+}
